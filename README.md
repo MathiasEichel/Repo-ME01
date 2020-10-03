@@ -2,6 +2,8 @@
 
 This is our CAP example project with GitHub support.
 
+It will demonstrate reading Product Master Data from different SAP Systems and persist the data.
+
 It contains these folders and files, following our recommended project layout:
 
 File or Folder | Purpose
