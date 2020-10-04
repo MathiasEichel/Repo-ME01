@@ -3,8 +3,16 @@
 This is our CAP example project with GitHub support.
 
 It will demonstrate reading Product Master Data from different SAP Systems and persist the data.
+This is for having a common data model
+
+Context for CAP training
 
 It contains these folders and files, following our recommended project layout:
+
+// new table
+clm 1 | clm 2
+-------|-------
+Text 1 | Text 2
 
 File or Folder | Purpose
 ---------|----------
